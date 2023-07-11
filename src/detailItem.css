@@ -1,0 +1,36 @@
+.containerLeft {
+  width: 50%;
+}
+
+.containerRight {
+  width: 50%;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+/* Estilos adicionales para la imagen */
+.containerLeft img {
+  width: 100%;
+  height: auto;
+}
+
+/* Estilos adicionales para la descripción */
+.containerRight .description {
+  margin-bottom: 10px;
+}
+
+/* Estilos adicionales para el botón */
+.buttons .buttondetalles {
+  background-color: #5b00fb;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.buttons .buttondetalles:hover {
+  background-color: #3f00b3;
+}
